@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nation: MyString
+  new_cases: 1.5
+  new_deaths: 1.5
+  new_recoveries: 1.5
+  new_injections: 1.5
+
+two:
+  nation: MyString
+  new_cases: 1.5
+  new_deaths: 1.5
+  new_recoveries: 1.5
+  new_injections: 1.5
